@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+### 关于🧒
 
-You can use the [editor on GitHub](https://github.com/zhehan-pc/ABOUT/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+------
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[返回 [ 开始 ]](https://zhehan-pc.github.io/)
 
-### Markdown
+------
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+本人某校初二学生，爱好`信息技术`+`吃`+`MC`+`音乐`
 
-```markdown
-Syntax highlighted code block
+AcFun：https://www.acfun.cn/u/35925535
 
-# Header 1
-## Header 2
-### Header 3
+Bilibili：https://space.bilibili.com/446308465
 
-- Bulleted
-- List
+联系邮箱：up_up_star@yeah.net
 
-1. Numbered
-2. List
+~~A岛匿名版：dUd1Vkf~~
 
-**Bold** and _Italic_ and `Code` text
+------
 
-[Link](url) and ![Image](src)
-```
+网站是自己瞎弄着玩玩的……实际上并没啥意义……
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+现在也没多少时间整活，如果以后有时间了会考虑用心做的……
 
-### Jekyll Themes
+------
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhehan-pc/ABOUT/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[返回 [ 开始 ]](https://zhehan-pc.github.io/)
